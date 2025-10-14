@@ -23,10 +23,10 @@ El repositorio se organiza en las siguientes carpetas principales:
 
 📁 Fundamentos-de-Ciencia-de-datos/
 <br> ├── 📁 datos/
-<br> │   ├── features_with_metaData.csv # Datos utilizados en el desarrollo del proyecto (.csv)
+<br> │   ├── features_with_metaData.csv  -  Datos utilizados en el desarrollo del proyecto (.csv)
 <br> │
 <br> ├── 📁 proyecto_aula/
-<br> │   ├── py_Nataly_Rodriguez_Atehortua.ipynb # Avance del proyecto de aula: análisis exploratorio, detección y análisis de atípicos
+<br> │   ├── py_Nataly_Rodriguez_Atehortua.ipynb -  Avance del proyecto de aula: análisis exploratorio, detección y análisis de atípicos
 <br> │
 <br> ├── 📁 sesiones_practicas/
 <br> │   ├── FD_U2_a_ciclo_de_vida.ipynb
@@ -36,7 +36,7 @@ El repositorio se organiza en las siguientes carpetas principales:
 <br> │   └── sp_4_Nataly_Rodriguez_Atehortua.ipynb
 <br> │
 <br> ├── 📁 recursos/
-<br> │   └── artículos_referencia/ # Artículos y material de apoyo utilizados en el primer avance del proyecto
+<br> │   └── artículos_referencia -  Artículos y material de apoyo utilizados en el primer avance del proyecto
 <br> │
 <br> └── README.md
 
