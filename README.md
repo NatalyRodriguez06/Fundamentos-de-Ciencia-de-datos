@@ -22,7 +22,6 @@ Este trabajo se enmarca dentro del **proyecto del aula de Algoritmos para Big Da
 El repositorio se organiza en las siguientes carpetas principales:
 
 📁 Fundamentos-de-Ciencia-de-datos/
-│
 <br> ├── 📁 datos/
 <br> │   ├── features_with_metaData.csv # Datos utilizados en el desarrollo del proyecto (.csv)
 <br> │
