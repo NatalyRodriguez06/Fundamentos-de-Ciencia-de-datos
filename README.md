@@ -13,7 +13,7 @@ El objetivo de este proyecto es analizar las características temporales y frecu
 
 A partir de la base de datos **Apnea-ECG**, se desarrollaron procesos de extracción de características, detección de valores atípicos y análisis bivariado, con el propósito de comprender las alteraciones fisiológicas asociadas a los eventos de apnea.  
 
-Este trabajo se enmarca dentro del **proyecto del aula de Algoritmos para Big Data**, y complementa las línea de investigación orientadas al desarrollo de algoritmos de detección de eventos respiratorios.
+Este trabajo se enmarca dentro del **proyecto del aula de Algoritmos para Big Data**, y complementa las línea de investigación orientada al desarrollo de algoritmos de detección de eventos respiratorios.
 
 ---
 
@@ -23,44 +23,23 @@ El repositorio se organiza en las siguientes carpetas principales:
 
 📁 Fundamentos-de-Ciencia-de-datos/
 │
-<br> ├── 📁 articulo/
-<br> │   ├── informe_1_nombre_apellidos.pdf
-<br> │   ├── informe_XX_nombre_apellidos.pdf
-<br> │   └── informe_final_nombre_apellidos.pdf
+<br> ├── 📁 datos/
+<br> │   ├── features_with_metaData.csv # Datos utilizados en el desarrollo del proyecto (.csv)
 <br> │
 <br> ├── 📁 proyecto_aula/
-<br> │   ├── py_nombre_apellidos_01_intro.ipynb
-<br> │   ├── py_nombre_apellidos_02_limpieza.ipynb
-<br> │   └── py_nombre_apellidos_XX_nombre.ipynb
+<br> │   ├── py_Nataly_Rodriguez_Atehortua.ipynb # Avance del proyecto de aula: análisis exploratorio, detección y análisis de atípicos
 <br> │
 <br> ├── 📁 sesiones_practicas/
-<br> │   ├── sc_1_nombre_apellidos.ipynb
-<br> │   ├── sc_2_nombre_apellidos.ipynb
-<br> │   └── sc_XX_nombre_apellidos.ipynb
-<br> │
-<br> ├── 📁 datos/
-<br> │   └── dataset_procesado.csv
+<br> │   ├── FD_U2_a_ciclo_de_vida.ipynb
+<br> │   ├── sp_1_Nataly_Rodriguez_Atehortua.ipynb
+<br> │   └── sp_2_Nataly_Rodriguez_Atehortua.ipynb
+<br> │   └── sp_3_Nataly_Rodriguez_Atehortua.ipynb
+<br> │   └── sp_4_Nataly_Rodriguez_Atehortua.ipynb
 <br> │
 <br> ├── 📁 recursos/
-<br> │   └── referencias_bibliograficas.pdf
+<br> │   └── artículos_referencia/ # Artículos y material de apoyo utilizados en el primer avance del proyecto
 <br> │
 <br> └── README.md
 
-├── 📁 datos/
-│ ├── features_with_metaData.csv # Datos utilizados en el desarrollo del proyecto (.csv)
-│
-├── 📁 proyecto_aula/
-│ └── Nataly_Rodriguez_Atehortua.ipynb # Avance del proyecto de aula: análisis exploratorio, detección y análisis de atípicos
-│
-├── 📁 sesiones_practicas/ # Sesiones prácticas relacionadas con el desarrollo del proyecto
-│ ├── FD_U2_a_ciclo_de_vida.ipynb
-│ ├── sp_1_Nataly_Rodriguez_Atehortua.ipynb
-│ ├── sp_2_Nataly_Rodriguez_Atehortua.ipynb
-│ ├── sp_3_Nataly_Rodriguez_Atehortua.ipynb
-│ └── sp_4_Nataly_Rodriguez_Atehortua.ipynb
-│
-├── 📁 recursos/
-│ └── artículos_referencia/ # Artículos y material de apoyo utilizados en el primer avance del proyecto
-│
-└── README.md # Descripción general del proyecto
+
 
