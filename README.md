@@ -1,8 +1,8 @@
-# Fundamentos de Ciencia de datos 2025-2
+## Fundamentos de Ciencia de datos 2025-2
 
-# 🩺 Análisis de señales ECG, SpO₂ y flujo respiratorio para la detección de apnea del sueño
+## 🩺 Análisis de señales ECG, SpO₂ y flujo respiratorio para la detección de apnea del sueño
 
-# Autores: 
+### Autores: 
 **Nataly Rodriguez Atehortua**  
 Correo: [nataly.rodriguez@udea.edu.co](mailto:nataly.rodriguez@udea.edu.co)
 
