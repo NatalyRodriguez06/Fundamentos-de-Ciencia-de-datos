@@ -25,7 +25,7 @@ El repositorio se organiza en las siguientes carpetas principales:
 │ ├── features_with_metaData.csv # Datos utilizados en el desarrollo del proyecto (.csv)
 │
 ├── 📁 proyecto_aula/
-│ └── Nataly_Rodriguez_Atehortua.ipynb # Avance del proyecto de aula: análisis exploratorio, detección y análisis de atípicos
+│ └── py_Nataly_Rodriguez_Atehortua.ipynb # Avance del proyecto de aula: análisis exploratorio, detección y análisis de atípicos
 │
 ├── 📁 sesiones_practicas/ # Sesiones prácticas relacionadas con el desarrollo del proyecto
 │ ├── FD_U2_a_ciclo_de_vida.ipynb
