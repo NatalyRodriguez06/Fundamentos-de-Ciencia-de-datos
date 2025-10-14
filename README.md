@@ -8,7 +8,7 @@ Correo: [nataly.rodriguez@udea.edu.co](mailto:nataly.rodriguez@udea.edu.co)
 
 ---
 
-## 🎯 Objetivo del proyecto
+### 🎯 Objetivo del proyecto
 El objetivo de este proyecto es analizar las características temporales y frecuenciales derivadas de señales fisiológicas —electrocardiograma (ECG), saturación de oxígeno (SpO₂) y flujo respiratorio— para identificar patrones asociados a la apnea del sueño.  
 
 A partir de la base de datos **Apnea-ECG**, se desarrollaron procesos de extracción de características, detección de valores atípicos y análisis bivariado, con el propósito de comprender las alteraciones fisiológicas asociadas a los eventos de apnea.  
@@ -17,9 +17,34 @@ Este trabajo se enmarca dentro del **proyecto del aula de Algoritmos para Big Da
 
 ---
 
-## 🧠 Descripción general del repositorio
+### 🧠 Descripción general del repositorio
 
 El repositorio se organiza en las siguientes carpetas principales:
+
+📁 Fundamentos-de-Ciencia-de-datos/
+│
+<br> ├── 📁 articulo/
+<br> │   ├── informe_1_nombre_apellidos.pdf
+<br> │   ├── informe_XX_nombre_apellidos.pdf
+<br> │   └── informe_final_nombre_apellidos.pdf
+<br> │
+<br> ├── 📁 proyecto_aula/
+<br> │   ├── py_nombre_apellidos_01_intro.ipynb
+<br> │   ├── py_nombre_apellidos_02_limpieza.ipynb
+<br> │   └── py_nombre_apellidos_XX_nombre.ipynb
+<br> │
+<br> ├── 📁 sesiones_practicas/
+<br> │   ├── sc_1_nombre_apellidos.ipynb
+<br> │   ├── sc_2_nombre_apellidos.ipynb
+<br> │   └── sc_XX_nombre_apellidos.ipynb
+<br> │
+<br> ├── 📁 datos/
+<br> │   └── dataset_procesado.csv
+<br> │
+<br> ├── 📁 recursos/
+<br> │   └── referencias_bibliograficas.pdf
+<br> │
+<br> └── README.md
 
 ├── 📁 datos/
 │ ├── features_with_metaData.csv # Datos utilizados en el desarrollo del proyecto (.csv)
