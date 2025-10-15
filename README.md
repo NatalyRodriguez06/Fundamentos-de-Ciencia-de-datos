@@ -13,7 +13,7 @@ El objetivo de este proyecto es analizar las características temporales y frecu
 
 A partir de la base de datos **Apnea-ECG**, se desarrollaron procesos de extracción de características, detección de valores atípicos y análisis bivariado, con el propósito de comprender las alteraciones fisiológicas asociadas a los eventos de apnea.  
 
-Este trabajo se enmarca dentro del **proyecto del aula de Algoritmos para Big Data**, y complementa las línea de investigación orientada al desarrollo de algoritmos de detección de eventos respiratorios.
+Este trabajo se enmarca dentro del **proyecto del aula de Fundamentos de ciencia de datos**, y complementa las línea de investigación orientada al desarrollo de algoritmos de detección de eventos respiratorios.
 
 ---
 
