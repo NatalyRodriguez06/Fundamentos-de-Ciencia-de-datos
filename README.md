@@ -40,5 +40,13 @@ El repositorio se organiza en las siguientes carpetas principales:
 <br> │
 <br> └── README.md
 
+### 📊 Conclusiones
 
+El análisis de la base de datos Apnea-ECG evidenció que las métricas temporales y frecuenciales derivadas de las señales de ECG, saturación de oxígeno (SpO₂) y flujo respiratorio reflejan adecuadamente los patrones fisiológicos asociados a la apnea del sueño.
+Las épocas con eventos respiratorios mostraron desaturaciones transitorias de oxígeno, evidenciadas por disminuciones en SpO₂_min y SpO₂_mean, junto con incrementos en SpO₂_std y SpO₂_var. Además, la señal de flujo respiratorio presentó medianas cercanas a cero y mayor variabilidad, confirmando la capacidad de las métricas extraídas para diferenciar entre épocas con y sin apnea.
+
+Asimismo, se identificaron valores atípicos compartidos en diversas métricas, tanto en épocas con como sin apnea, que exceden los rangos fisiológicos esperables. Entre ellos, algunas características derivadas de los intervalos RR y de la variabilidad cardíaca (RMSSD, std_rr, var_rr) superan los límites típicos, mientras que ciertos registros de SpO₂ muestran desaturaciones inferiores al 70%, fuera del rango confiable de medición.
+Estos valores representan artefactos o mediciones no fisiológicas, por lo que deben ser considerados en procesos posteriores de depuración. También se observó alta correlación entre variables relacionadas (por ejemplo, RMSSD y std_rr: ρ = 0.98; airflow_mean y airflow_median: ρ = 0.90; SpO₂_std y SpO₂_var: ρ = 1.0), lo que sugiere redundancia y la necesidad de seleccionar las características más representativas.
+
+Finalmente, aunque los resultados reflejan patrones fisiológicos consistentes, la muestra presenta un sesgo de género (7 hombres y 1 mujer), lo cual limita la generalización de los hallazgos a poblaciones más amplias y heterogéneas.
 
