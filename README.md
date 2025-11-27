@@ -13,7 +13,8 @@ El objetivo de este proyecto es analizar las características temporales y frecu
 
 A partir de la base de datos *Apnea-ECG*, se implementaron procesos de extracción de características, análisis exploratorio de los datos, identificación y tratamiento de valores atípicos y análisis de clústeres. 
 
-Este trabajo se enmarca en el **proyecto del aula de Fundamentos de Ciencia de Datos** y contribuye a la línea de investigación dedicada al desarrollo de algoritmos para la detección de eventos respiratorios. Como parte de este proyecto, se presenta el artículo titulado \textit{Detección de patrones de apnea del sueño mediante análisis de señales fisiológicas} \href{C:\Users\Nataly Rodriguez\OneDrive - Universidad de Antioquia\Master's degree\ThirdSemester\Data_Science\Datos\Fundamentos-de-Ciencia-de-datos\articulo\Informe_final_Nataly_Rodriguez_Atehortua.pdf.pdf}{(Disponible aquí)}.
+Este trabajo se enmarca en el **proyecto del aula de Fundamentos de Ciencia de Datos** y contribuye a la línea de investigación dedicada al desarrollo de algoritmos para la detección de eventos respiratorios. Como parte de este proyecto, se presenta el artículo titulado *Detección de patrones de apnea del sueño mediante análisis de señales fisiológicas* [Disponible aquí](articulo/Informe_final_Nataly_Rodriguez_Atehortua.pdf).
+
 
 
 ---
