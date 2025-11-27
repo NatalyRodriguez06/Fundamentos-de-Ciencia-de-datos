@@ -85,7 +85,7 @@ Las visualizaciones incluyen **boxplots estratificados por etiqueta** (‘A’ y
 
 En este notebook se analizan las variables del dataset **features_iniciales**. Algunas de estas variables presentan valores que no se encuentran dentro de los rangos fisiológicos esperados; por esta razón, dichos registros se reemplazan inicialmente por valores `NaN`. Una vez definidos los valores nulos, se realiza un análisis detallado para identificar su distribución y determinar a qué épocas pertenecen según la etiqueta correspondiente.
 
-Posteriormente, se aplica un proceso de imputación utilizando diferentes técnicas: imputación por mediana, imputación aleatoria y KNN. Estas metodologías se implementan de manera separada para las etiquetas de **apnea ('A')** y **normal ('N')**, con el fin de preservar las características propias de cada condición fisiológica.
+Posteriormente, se aplica un proceso de imputación utilizando diferentes técnicas: imputación por mediana e imputación aleatoria. Estas metodologías se implementan de manera separada para las etiquetas de **apnea ('A')** y **normal ('N')**, con el fin de preservar las características propias de cada condición fisiológica.
 
 Finalmente, tras comparar el desempeño de cada método, se selecciona la estrategia más adecuada y se construye el dataframe final con los valores imputados y se almacena. 
 
